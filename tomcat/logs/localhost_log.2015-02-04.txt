@@ -1,0 +1,1 @@
+2015-02-04 00:06:12 StandardHost[localhost]: MAPPING configuration error for request URI /index.jsp

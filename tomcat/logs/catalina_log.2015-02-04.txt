@@ -1,0 +1,7 @@
+2015-02-04 00:03:49 HttpConnector Opening server socket on all host IP addresses
+2015-02-04 00:03:49 HttpConnector[8080] Starting background thread
+2015-02-04 00:03:49 HttpProcessor[8080][0] Starting background thread
+2015-02-04 00:03:49 HttpProcessor[8080][1] Starting background thread
+2015-02-04 00:03:49 HttpProcessor[8080][2] Starting background thread
+2015-02-04 00:03:49 HttpProcessor[8080][3] Starting background thread
+2015-02-04 00:03:49 HttpProcessor[8080][4] Starting background thread

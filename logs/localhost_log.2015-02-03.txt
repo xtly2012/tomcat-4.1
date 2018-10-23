@@ -1,0 +1,17 @@
+2015-02-03 01:11:59 StandardHost[localhost]: Removing web application at context path /examples
+2015-02-03 01:11:59 StandardHost[localhost]: ContainerBase.removeChild: stop: 
+LifecycleException:  Container StandardContext[/examples] has not been started
+	at org.apache.catalina.core.StandardContext.stop(StandardContext.java:3644)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1036)
+	at org.apache.catalina.core.StandardHostDeployer.remove(StandardHostDeployer.java:470)
+	at org.apache.catalina.core.StandardHost.remove(StandardHost.java:852)
+	at org.apache.catalina.startup.HostConfig.undeployApps(HostConfig.java:758)
+	at org.apache.catalina.startup.HostConfig.stop(HostConfig.java:738)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:360)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:166)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1221)
+	at org.apache.catalina.core.ContainerBase.stop(ContainerBase.java:1233)
+	at org.apache.catalina.core.StandardService.stop(StandardService.java:554)
+	at org.apache.catalina.core.StandardServer.stop(StandardServer.java:2225)
+	at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:624)
+

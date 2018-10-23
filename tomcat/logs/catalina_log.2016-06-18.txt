@@ -1,0 +1,60 @@
+2016-06-18 01:03:22 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 01:03:22 HttpConnector httpConnector, io problem: 
+java.net.BindException: Address already in use:8080
+	at org.apache.catalina.connector.http.HttpConnector.open(HttpConnector.java:980)
+	at org.apache.catalina.connector.http.HttpConnector.initialize(HttpConnector.java:1187)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:579)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:2246)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:511)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:205)
+
+2016-06-18 01:04:20 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 01:04:20 HttpConnector httpConnector, io problem: 
+java.net.BindException: Address already in use:8080
+	at org.apache.catalina.connector.http.HttpConnector.open(HttpConnector.java:980)
+	at org.apache.catalina.connector.http.HttpConnector.initialize(HttpConnector.java:1187)
+	at org.apache.catalina.core.StandardService.initialize(StandardService.java:579)
+	at org.apache.catalina.core.StandardServer.initialize(StandardServer.java:2246)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:511)
+	at org.apache.catalina.startup.Catalina.execute(Catalina.java:400)
+	at org.apache.catalina.startup.Catalina.process(Catalina.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:205)
+
+2016-06-18 01:05:07 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 01:05:08 HttpConnector[9080] Starting background thread
+2016-06-18 01:05:08 HttpProcessor[9080][0] Starting background thread
+2016-06-18 01:05:08 HttpProcessor[9080][1] Starting background thread
+2016-06-18 01:05:08 HttpProcessor[9080][2] Starting background thread
+2016-06-18 01:05:08 HttpProcessor[9080][3] Starting background thread
+2016-06-18 01:05:08 HttpProcessor[9080][4] Starting background thread
+2016-06-18 01:35:18 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 01:35:18 HttpConnector[9080] Starting background thread
+2016-06-18 01:35:18 HttpProcessor[9080][0] Starting background thread
+2016-06-18 01:35:18 HttpProcessor[9080][1] Starting background thread
+2016-06-18 01:35:18 HttpProcessor[9080][2] Starting background thread
+2016-06-18 01:35:18 HttpProcessor[9080][3] Starting background thread
+2016-06-18 01:35:18 HttpProcessor[9080][4] Starting background thread
+2016-06-18 02:09:42 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 02:09:42 HttpConnector[9080] Starting background thread
+2016-06-18 02:09:42 HttpProcessor[9080][0] Starting background thread
+2016-06-18 02:09:42 HttpProcessor[9080][1] Starting background thread
+2016-06-18 02:09:42 HttpProcessor[9080][2] Starting background thread
+2016-06-18 02:09:42 HttpProcessor[9080][3] Starting background thread
+2016-06-18 02:09:42 HttpProcessor[9080][4] Starting background thread
+2016-06-18 02:14:17 HttpConnector Opening server socket on all host IP addresses
+2016-06-18 02:14:17 HttpConnector[9080] Starting background thread
+2016-06-18 02:14:17 HttpProcessor[9080][0] Starting background thread
+2016-06-18 02:14:17 HttpProcessor[9080][1] Starting background thread
+2016-06-18 02:14:17 HttpProcessor[9080][2] Starting background thread
+2016-06-18 02:14:17 HttpProcessor[9080][3] Starting background thread
+2016-06-18 02:14:17 HttpProcessor[9080][4] Starting background thread

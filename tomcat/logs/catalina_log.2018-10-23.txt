@@ -1,0 +1,13 @@
+2018-10-23 21:12:22 HttpConnector Opening server socket on all host IP addresses
+2018-10-23 21:12:22 HttpConnector[9080] Starting background thread
+2018-10-23 21:12:22 HttpProcessor[9080][0] Starting background thread
+2018-10-23 21:12:22 HttpProcessor[9080][1] Starting background thread
+2018-10-23 21:12:22 HttpProcessor[9080][2] Starting background thread
+2018-10-23 21:12:22 HttpProcessor[9080][3] Starting background thread
+2018-10-23 21:12:22 HttpProcessor[9080][4] Starting background thread
+2018-10-23 21:12:25 HttpProcessor[9080][4] Stopping background thread
+2018-10-23 21:12:25 HttpProcessor[9080][3] Stopping background thread
+2018-10-23 21:12:25 HttpProcessor[9080][2] Stopping background thread
+2018-10-23 21:12:25 HttpProcessor[9080][1] Stopping background thread
+2018-10-23 21:12:25 HttpProcessor[9080][0] Stopping background thread
+2018-10-23 21:12:25 HttpConnector[9080] Stopping background thread
